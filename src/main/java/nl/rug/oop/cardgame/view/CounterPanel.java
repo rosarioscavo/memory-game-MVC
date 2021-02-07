@@ -33,7 +33,7 @@ public class CounterPanel extends JPanel implements Observer {
         g.setFont(new Font("ComicSans", Font.BOLD, 36));
         g.setColor(Color.WHITE);
         g.drawString("Score: ", dimension.width / 2 - 90, dimension.height / 2 + 10);
-        g.drawString(String.valueOf(moves.getCounter()), dimension.width / 2 + 25, dimension.height / 2 + 10);
+        g.drawString(String.valueOf(moves.getCounter()), dimension.width / 2 + 50, dimension.height / 2 + 10);
     }
 
     /**
