@@ -61,5 +61,5 @@ At the end of the game, the user will be asked to either reset the game or exit.
 
 ## Developed by
 
-- [Rosario Scavo](https://github.com/PerseRos) 
+- [Rosario Scavo](https://github.com/rosarioscavo) 
 
